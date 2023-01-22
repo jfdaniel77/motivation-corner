@@ -1,0 +1,12 @@
+{
+  "name": "beta-motivationpods",
+  "version": "1.0.0",
+  "description": "An automation bot to tweet motivational and inspirational quotes daily",
+  "author": "Daniel",
+  "license": "MIT",
+  "dependencies": {
+    "dayjs": "^1.11.7",
+    "mongodb": "^4.13.0",
+    "twitter-api-client": "^1.6.1"
+  }
+}
